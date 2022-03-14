@@ -1,5 +1,4 @@
 // Zach Duncan
-// Section 04
 
 using std::cout;
 using std::cin;

@@ -1,5 +1,4 @@
 // Zach Duncan
-// Section 04
 
 #ifndef _HASHTABLE_H
 #define _HASHTABLE_H
@@ -13,7 +12,7 @@
 #include <utility> // for pair
 #include <cstddef> // for size_t
 
-namespace cop4530{
+namespace hash_namespace{
 
 template <typename K, typename V>
 class HashTable {
@@ -62,7 +61,7 @@ class HashTable {
 
 #include "hashtable.hpp"
 
-} //end of namespace cop4530
+} //end of hash_namespace
 
 
 #endif
