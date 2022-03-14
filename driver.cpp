@@ -1,5 +1,4 @@
 // Zach Duncan
-// Section 04
 
 #include <iostream>
 #include <utility> // for pairs
@@ -8,7 +7,7 @@
 #include "hashtable.h"
 
 using namespace std;
-using namespace cop4530;
+using namespace hash_namespace;
 
 void Menu();
 

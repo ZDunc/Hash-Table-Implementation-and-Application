@@ -10,7 +10,7 @@
 #include <utility> // for pair
 #include <cstddef> // for size_t
 
-using namespace cop4530;
+using namespace hash_namespace;
 
 
 //-------------------------PUBLIC CLASS FUNCTINONS------------------------------

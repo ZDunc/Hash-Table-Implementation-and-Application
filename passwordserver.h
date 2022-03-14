@@ -7,7 +7,7 @@
 #include "hashtable.h"
 #include <string>
 
-namespace cop4530{
+namespace hash_namespace{
 
 class PassServer {
 public:
@@ -30,6 +30,6 @@ private:
 
 };
 
-} // end of cop4530 namespace
+} // end of hash_namespace
 
 #endif
